@@ -1,0 +1,41 @@
+
+body{
+  background-color: #ffffff;
+}
+
+.encabezado{
+  background-color: ;
+}
+
+
+.navbar-light {
+  background-color: #fafafa;
+  width: 100%;
+}
+
+
+.contenido {
+  background-color: ;
+}
+
+.image img{
+
+max-width: 100%;
+height: auto;
+
+}
+
+div.comment textarea {
+  display: inline-block;
+  width: 85%;
+}
+
+@media only screen and (max-width: 1199px) {
+  div#social{
+    text-align: center;
+  }
+
+  div.comment textarea {
+    width: 80%;
+  }
+}
